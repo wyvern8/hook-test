@@ -1,2 +1,2 @@
 # hook-test
-abcde
+abcdef
